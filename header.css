@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.Table-header {
+	background-color:#273278;
+	background-repeat:repeat-x;
+	position:fixed;
+	width:100%;
+	z-index:1000;
+}
+.Table-footer {
+	
+	background-color:#61B1DC;
+	background-repeat:repeat-x;
+	position:relative;
+	width:100%;
+}

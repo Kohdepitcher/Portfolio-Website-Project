@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.kickstarter-button {
+    width: 300px;
+    z-index: 222;
+    background: #14e06e;
+    border: 1px solid #10b157;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff !important;
+    -webkit-box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+.Kickstarter-Section {
+	background-image:url(Images/texture--green.jpg);
+	width:100%;
+}
+.kickstarter-content {
+	width:100%;
+}

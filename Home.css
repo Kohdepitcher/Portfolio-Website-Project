@@ -1,0 +1,132 @@
+@charset "UTF-8";
+@import url("Masking.css");
+.div_social_media {
+	position:absolute;
+	width:100%;
+	background-color:#E7E7E7;
+	background-image:url(Images/SlideShow/Camobat03.jpg);
+	height:800px;
+
+}
+.Facebook {
+	border-radius: 6px;
+}
+.Social-Media-Header2 {
+	color:#F5DD00;
+	width:800px;
+	top:10px;
+	
+}
+.Social-Media-Header-shadow {
+	border-radius: 25px;
+	background-color:rgba(58,58,58,0.73);
+	width:800px
+}
+
+.Table-footer {
+	top:700px
+}
+.Mask-Bottom{
+		top:700px;
+}
+.carousel {
+	width:100%;
+	height:600px;
+	top:100px;
+}
+.item {
+	width: auto;
+	height: 500px;
+	max-height:500px;
+}
+.left carousel-control {
+	max-height:600px;
+}
+.Mask-Bottom-slide {
+	background-image:url(Images/Mask%20Bottom.png);
+	background-repeat:repeat-x;
+	height:68px;
+	width:100%;
+	position:relative;
+	top:600px;
+	z-index:999;
+}
+
+.Mask-Top-slide {
+	background-image:url(Images/White%20Mask%20Top.png);
+	background-repeat:repeat-x;
+	height:68px;
+	width:100%;
+	position:relative;
+	top:235px;
+	z-index:999;
+}
+.Mask-Bottom-Kick {
+	background-image:url(Images/mask--light-to-transparent.png);
+	background-repeat:repeat-x;
+	height:68px;
+	width:100%;
+	position:relative;
+	top:px;
+	z-index:999;
+
+}
+.div-white {
+	background-image:url(Images/texture--lightblue.jpg);
+	width:100%;
+	height:600px;
+	margin-top:0px;
+	margin-bottom:0px;
+	z-index:999;
+	position:relative;
+	
+}
+.Mask-Top-social {
+	background-image:url(Images/mask--transparent-to-white-bottom.png);
+	background-repeat:repeat-x;
+	height:68px;
+	width:100%;
+	position:relative;
+	top:-50px;
+	z-index:999;
+}
+.Mask-Bottom-social {
+	background-image:url(Images/White%20Mask%20Top.png);
+	background-repeat:repeat-x;
+	height:68px;
+	width:100%;
+	position:relative;
+	top:-40px;
+	z-index:999;
+}
+.div-white-social {
+	background-color:#FFFFFF	;
+	width:100%;
+	height:50px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.date-section {
+	background-image:url(Images/texture--lightblue.jpg);
+	height:500px;
+	width:100%;
+}
+.about-section {
+	background-color:#FFFFFF;
+	width:100%;
+	height:800px;
+	z-index:50;
+}
+.about-sectio-mask-top {
+	background-image:url(Images/mask--transparent-to-white-bottom.png);
+	top:100px;
+	height:68px;
+	z-index:999;
+	width:100%;
+	background-repeat:repeat-x;
+}
+.center-block {
+}
+.trailer_head {
+	top:-20px;
+}

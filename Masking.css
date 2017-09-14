@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.Masktop {
+	width:100%;
+	background:url(Images/Mask%20Top.png);
+	background-repeat:repeat-x;
+	background-position:center center;
+	position:fixed;
+	height:68px;
+	z-index:1000;
+	top:160px;
+}
+.Mask-Bottom {
+	width:100%;
+	background:url(Images/Mask%20Bottom.png);
+	background-repeat:repeat-x;
+	background-position:center center;
+	position:relative;
+	height:68px;
+	z-index:999;
+
+}
+/*.div_social_media {
+	position:relative;
+}*/

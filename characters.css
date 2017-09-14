@@ -1,0 +1,40 @@
+@charset "utf-8";
+.characters-background {
+	background-image:url(Images/texture--green.jpg);
+	width:100%;
+	height:1500px;
+}
+.center-block {
+	max-height:1000px;
+	max-width:1000px;
+	
+}
+.carousel {
+	/*height:1070px;*/
+	height:1000px;
+}
+.image1 {
+}
+.character-bottom-mask {
+	background-image:url(Images/Mask%20Bottom.png);
+	z-index:999;
+	height:68px;
+	width:100%;
+	background-repeat:repeat-x;
+	top:-60px;
+	position:relative;
+}
+.enemies-background {
+	background-image:url(Images/texture--lightblue.jpg);
+	top:-70px;
+	
+	width:100%;
+	height:1500px;
+	position:relative;
+}
+.Table-footer {
+	top: -160px;
+}
+.Mask-Bottom {
+	top: -139px;
+}
